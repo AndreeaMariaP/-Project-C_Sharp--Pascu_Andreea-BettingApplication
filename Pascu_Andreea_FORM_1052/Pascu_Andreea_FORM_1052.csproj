@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AA28A087-2A21-430C-9032-182CF60807A1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Pascu_Andreea_FORM_1052</RootNamespace>
+    <AssemblyName>Pascu_Andreea_FORM_1052</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddBet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddBet.Designer.cs">
+      <DependentUpon>AddBet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainBetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainBetForm.Designer.cs">
+      <DependentUpon>MainBetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HowToBet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HowToBet.Designer.cs">
+      <DependentUpon>HowToBet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Matches.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bets.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AddBet.resx">
+      <DependentUpon>AddBet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainBetForm.resx">
+      <DependentUpon>MainBetForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HowToBet.resx">
+      <DependentUpon>HowToBet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\soccer-ball-png-26366.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\soccer-ball1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\soccerBall.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Champions-League.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sports-betting-sites-400x306.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\soccer-ball.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\basketball.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tennis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\basketball-hd-png-basketball-445.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MTO_Tennis_Ball.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MTO_Tennis_Ball1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MTO_Tennis_Ball2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\basketballer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tennis_player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+    <Folder Include="obj\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\BettingDatabase1.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

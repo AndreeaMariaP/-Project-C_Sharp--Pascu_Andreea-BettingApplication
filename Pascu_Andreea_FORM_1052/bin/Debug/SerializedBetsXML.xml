@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Bet>
+    <UserName>and</UserName>
+    <birthDate>2018-05-02T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-02T00:00:00+03:00</currentDate>
+    <betAmount>12</betAmount>
+    <possibleGain>85.08</possibleGain>
+    <oddsBet>7.09</oddsBet>
+    <MatchName>Celtic - BorussiaDortmund</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>b</UserName>
+    <birthDate>2018-05-02T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-02T00:00:00+03:00</currentDate>
+    <betAmount>23</betAmount>
+    <possibleGain>201.25</possibleGain>
+    <oddsBet>8.75</oddsBet>
+    <MatchName>ManchesterUnited - DinamoBucuresti</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>abc</UserName>
+    <birthDate>2018-05-02T00:00:00+03:00</birthDate>
+    <gender>102</gender>
+    <currentDate>2018-05-02T00:00:00+03:00</currentDate>
+    <betAmount>4</betAmount>
+    <possibleGain>13.68</possibleGain>
+    <oddsBet>3.42</oddsBet>
+    <MatchName>ACMilan - RealMadrid</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>h</UserName>
+    <birthDate>2018-05-02T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-02T00:00:00+03:00</currentDate>
+    <betAmount>12</betAmount>
+    <possibleGain>137.28</possibleGain>
+    <oddsBet>11.44</oddsBet>
+    <MatchName>ACMilan - SportingLisabon</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>andre</UserName>
+    <birthDate>2018-05-02T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-02T00:00:00+03:00</currentDate>
+    <betAmount>2</betAmount>
+    <possibleGain>23.44</possibleGain>
+    <oddsBet>11.72</oddsBet>
+    <MatchName>ACMilan - Juventus</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>a</UserName>
+    <birthDate>2018-05-25T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-25T00:00:00+03:00</currentDate>
+    <betAmount>123</betAmount>
+    <possibleGain>785.96999999999991</possibleGain>
+    <oddsBet>6.39</oddsBet>
+    <MatchName>RealMadrid - BorussiaDortmund</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>ghjj</UserName>
+    <birthDate>2018-05-25T00:00:00+03:00</birthDate>
+    <gender>102</gender>
+    <currentDate>2018-05-25T00:00:00+03:00</currentDate>
+    <betAmount>123</betAmount>
+    <possibleGain>696.18000000000006</possibleGain>
+    <oddsBet>5.66</oddsBet>
+    <MatchName>FCBarcelona - Celtic</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>huh</UserName>
+    <birthDate>2018-05-25T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-25T00:00:00+03:00</currentDate>
+    <betAmount>123</betAmount>
+    <possibleGain>247.22999999999996</possibleGain>
+    <oddsBet>2.01</oddsBet>
+    <MatchName>Juventus - BorussiaDortmund</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>abc</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>102</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>145</betAmount>
+    <possibleGain>1271.6499999999999</possibleGain>
+    <oddsBet>8.77</oddsBet>
+    <MatchName>RealMadrid - Arsenal</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>g</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>1</betAmount>
+    <possibleGain>4.36</possibleGain>
+    <oddsBet>4.36</oddsBet>
+    <MatchName>Juventus - BorussiaDortmund</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>b</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>4</betAmount>
+    <possibleGain>22.56</possibleGain>
+    <oddsBet>5.64</oddsBet>
+    <MatchName>Chelsea - DinamoBucuresti</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>sgd</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>102</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>4</betAmount>
+    <possibleGain>21.72</possibleGain>
+    <oddsBet>5.43</oddsBet>
+    <MatchName>SportingLisabon - FCBarcelona</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>gh</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>67</betAmount>
+    <possibleGain>71.02000000000001</possibleGain>
+    <oddsBet>1.06</oddsBet>
+    <MatchName>FCBarcelona - Arsenal</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>gyu</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>102</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>78</betAmount>
+    <possibleGain>178.62</possibleGain>
+    <oddsBet>2.29</oddsBet>
+    <MatchName>Celtic - BorussiaDortmund</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>rhh</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>102</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>45</betAmount>
+    <possibleGain>144.45</possibleGain>
+    <oddsBet>3.21</oddsBet>
+    <MatchName>Juventus - Chelsea</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>gbrd</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>34</betAmount>
+    <possibleGain>329.12</possibleGain>
+    <oddsBet>9.68</oddsBet>
+    <MatchName>RealMadrid - FCBarcelona</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>grhb</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>102</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>23</betAmount>
+    <possibleGain>174.79999999999998</possibleGain>
+    <oddsBet>7.6</oddsBet>
+    <MatchName>Celtic - DinamoBucuresti</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>grv</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>102</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>23</betAmount>
+    <possibleGain>221.02999999999997</possibleGain>
+    <oddsBet>9.61</oddsBet>
+    <MatchName>FCBarcelona - BorussiaDortmund</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>edec</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>34</betAmount>
+    <possibleGain>127.16000000000001</possibleGain>
+    <oddsBet>3.74</oddsBet>
+    <MatchName>Arsenal - Celtic</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>rgev</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>34</betAmount>
+    <possibleGain>372.98</possibleGain>
+    <oddsBet>10.97</oddsBet>
+    <MatchName>BorussiaDortmund - Arsenal</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>gee</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>34</betAmount>
+    <possibleGain>274.04</possibleGain>
+    <oddsBet>8.06</oddsBet>
+    <MatchName>BorussiaDortmund - Arsenal</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>adfv</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>34</betAmount>
+    <possibleGain>97.24</possibleGain>
+    <oddsBet>2.86</oddsBet>
+    <MatchName>Chelsea - SteauaBucuresti</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>ewvw</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>23</betAmount>
+    <possibleGain>89.7</possibleGain>
+    <oddsBet>3.9</oddsBet>
+    <MatchName>ACMilan - SportingLisabon</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>ewfcw</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>34</betAmount>
+    <possibleGain>39.44</possibleGain>
+    <oddsBet>1.16</oddsBet>
+    <MatchName>RealMadrid - ACMilan</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>erf</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>35</betAmount>
+    <possibleGain>324.79999999999995</possibleGain>
+    <oddsBet>9.28</oddsBet>
+    <MatchName>RealMadrid - Celtic</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>eff</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>12</betAmount>
+    <possibleGain>68.28</possibleGain>
+    <oddsBet>5.69</oddsBet>
+    <MatchName>SportingLisabon - FCBarcelona</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>grge</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>23</betAmount>
+    <possibleGain>113.16</possibleGain>
+    <oddsBet>4.92</oddsBet>
+    <MatchName>ManchesterUnited - RealMadrid</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>eev</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>12</betAmount>
+    <possibleGain>21.48</possibleGain>
+    <oddsBet>1.79</oddsBet>
+    <MatchName>Arsenal - SportingLisabon</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>grbe</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>12</betAmount>
+    <possibleGain>95.52</possibleGain>
+    <oddsBet>7.96</oddsBet>
+    <MatchName>DinamoBucuresti - Arsenal</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>grehhfg</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>123</betAmount>
+    <possibleGain>1311.18</possibleGain>
+    <oddsBet>10.66</oddsBet>
+    <MatchName>ACMilan - SteauaBucuresti</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>grev</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>12</betAmount>
+    <possibleGain>114.60000000000001</possibleGain>
+    <oddsBet>9.55</oddsBet>
+    <MatchName>SteauaBucuresti - SportingLisabon</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>dfg</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>12</betAmount>
+    <possibleGain>138.96</possibleGain>
+    <oddsBet>11.58</oddsBet>
+    <MatchName>Celtic - BorussiaDortmund</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>feffef</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>12</betAmount>
+    <possibleGain>35.400000000000006</possibleGain>
+    <oddsBet>2.95</oddsBet>
+    <MatchName>DinamoBucuresti - SportingLisabon</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>gfefg</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>12</betAmount>
+    <possibleGain>128.88</possibleGain>
+    <oddsBet>10.74</oddsBet>
+    <MatchName>Juventus - BorussiaDortmund</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>dvdeve</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>12</betAmount>
+    <possibleGain>16.44</possibleGain>
+    <oddsBet>1.37</oddsBet>
+    <MatchName>Juventus - SteauaBucuresti</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>dwe</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>12</betAmount>
+    <possibleGain>135.48</possibleGain>
+    <oddsBet>11.29</oddsBet>
+    <MatchName>SteauaBucuresti - BorussiaDortmund</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>rgrg</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>12</betAmount>
+    <possibleGain>53.04</possibleGain>
+    <oddsBet>4.42</oddsBet>
+    <MatchName>SportingLisabon - RealMadrid</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>grgrr</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>1</betAmount>
+    <possibleGain>3.3</possibleGain>
+    <oddsBet>3.3</oddsBet>
+    <MatchName>Arsenal - Chelsea</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>AndreeaACMilanWChelsea</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>102</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>123</betAmount>
+    <possibleGain>798.27</possibleGain>
+    <oddsBet>6.49</oddsBet>
+    <MatchName>ACMilan - Chelsea</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>Maria</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>102</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>12</betAmount>
+    <possibleGain>40.44</possibleGain>
+    <oddsBet>3.37</oddsBet>
+    <MatchName>BorussiaDortmund - ManchesterUnited</MatchName>
+    <WinTeam />
+    <winStatus>false</winStatus>
+  </Bet>
+  <Bet>
+    <UserName>blablacuvirgula</UserName>
+    <birthDate>2018-05-26T00:00:00+03:00</birthDate>
+    <gender>109</gender>
+    <currentDate>2018-05-26T00:00:00+03:00</currentDate>
+    <betAmount>15</betAmount>
+    <possibleGain>57</possibleGain>
+    <oddsBet>3.8</oddsBet>
+    <MatchName>ManchesterUnited - RealMadrid</MatchName>
+    <winStatus>false</winStatus>
+  </Bet>
+</ArrayOfBet>
